@@ -1,0 +1,39 @@
+Outcome	Type	SUPPRESSION BY CD14+	SUPPRESSION BY SN CD14+	SUPPRESSION BY SN CD66b+ LDN	SUPPRESSION BY SN CD66b+ NDN
+alive	Severe	78,5	52,11	96,4	41,6
+alive	Severe	42,6	35,2	96,3	18,9
+dead	Severe	10,2	25,63	52,33	18,6
+alive	Severe	67,4	56,8	94,7	34,56
+alive	Severe	10,59	4,89	31,55	1,85
+alive	Severe	35,3	67,4	95,6	21,3
+dead	Severe	25,6	31,25	84,59	24,78
+alive	Severe				
+alive	Severe				
+dead	Severe				
+alive	Severe	62,3	87,66	69,88	12,52
+dead	Severe	18,56	1,52	19,63	11,89
+alive	Severe	39,6	54,78	84,23	34,7
+alive	Severe	24,6	35,6	49,89	35,6
+alive	Severe	62,74	45,88	68,54	12,58
+dead	Severe	20,33	2,53	24,3	10,56
+dead	Severe				
+alive	Severe	74,55	52,63	52,7	47,89
+dead	Severe	15,66	56,87	74,85	18,99
+dead	Severe	14,78	0,87	25,12	4,89
+alive	Severe	52,36	51,29	42,66	23,44
+dead	Severe	12,3	15,6	21,5	18,9
+dead	Severe				
+	mild				
+	mild	65,3	78,69	76,3	5,23
+	mild	69,14	35,96	74,09	15,08
+	mild	54,87	41,78	57,88	14,89
+	mild				
+	mild				
+	mild	45,99	74,56	87,85	21,45
+	mild	74,52	58,96	95,23	41,26
+	mild	85,12	63,22	91,02	38,78
+	mild	58,7	78,99	96,33	45,12
+	healthy donor	4,45	1,58		24,66
+	healthy donor				
+	healthy donor	24,33	4,89		12,78
+	healthy donor	10,47	5,54		11,48
+	healthy donor	10,89	15,48		11,55

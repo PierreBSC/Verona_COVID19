@@ -1,0 +1,34 @@
+Patient	Sex	Type
+1	F	ICU
+2	M	ICU
+3	F	ICU
+4	M	ICU
+5	M	ICU
+6	F	ICU
+7	M	ICU
+8	M	ICU
+9	M	ICU
+10	M	ICU
+11	M	ICU
+13	M	ICU
+14	M	ICU
+16	F	ICU
+17	M	ICU
+18	M	ICU
+23	M	ICU
+24	M	ICU
+25	M	ICU
+27	M	ICU
+29	M	ICU
+31	F	Infective Disease
+32	M	Infective Disease
+33	F	Infective Disease
+34	F	Infective Disease
+35	M	Infective Disease
+36	M	Infective Disease
+37	M	Infective Disease
+38	M	home
+39	M	home
+40	M	home
+41	F	home
+42	M	home
