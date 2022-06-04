@@ -1,0 +1,31 @@
+Name	Downloaded	Analysed 	Result	SARS-COV-2 reads	HSV-1 reads
+BAL_1	Yes	Yes	Negative	0	0
+BAL_2	Yes	Yes	Weakly positive	443	0
+BAL_3	Yes	Yes	Negative	0	0
+BAL_4	Yes	Yes	Positive for HSV-1 strain 17 (>300.000 reads)	0	265392
+BAL_5	Yes	Yes	Negative	0	0
+BAL_6	Yes	Yes	Weakly positive	53	0
+BAL_7	Yes	Yes	Negative	0	0
+BAL_8	Yes	Yes	Positive for SARS-CoV-2 (>300.000 reads)	326282	0
+BAL_9	Yes	Yes	Negative	0	0
+BAL_10	Yes	Yes	Negative	0	0
+BAL_11	Yes	Yes	Negative	0	0
+BAL_12					
+BAL_13					
+BAL_14	Yes	Yes	Weakly positive	1403	0
+BAL_15					
+BAL_16	Yes	Yes	Negative	0	0
+BAL_17	Yes	Yes	Negative	0	0
+BAL_18	Yes	Yes	Negative	0	0
+BAL_19					
+BAL_20					
+BAL_21					
+BAL_22	Yes	Yes	Negative	0	0
+BAL_23	Yes	Yes	Negative	0	0
+BAL_24	Yes	Yes	Negative	0	0
+BAL_25	Yes	Yes	Positive for HSV-1 strain 17 (>30.000 reads)	0	46229
+BAL_26					
+BAL_27	Yes	Yes	Negative	0	0
+BAL_28					
+BAL_29	Yes	Yes	Negative	0	0
+BAL_30	Yes	Yes	Negative	0	0
