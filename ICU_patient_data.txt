@@ -1,0 +1,24 @@
+Date	N SAMPLE	Sex	age	Weight (Kg)	Height (m)	BMI	Smoker	Date of syntoms onset	Date of Hospitalization 	Days from syntoms onset  to ICU admission 	Date from syntoms onset to dismission from ICU	Date from syntoms onset  to dismission from Hospital	Outcome ICU	Hypertension	Diabetes	Chronic obstructive pulmunary disease 	Cardiovascular disease	Cronic kidney disease	Active malignancies	organ failure at UCI admission	sequential organ failure assessment score (SOFA score) at ICU admission	SOFA RESP	SOFA KIDNEY	SOFA LIVER	SOFA Cardiovascular	SOFA COAG	sequential organ failure assessment score (SOFA score) at sampling	SOFA RESP	SOFA KIDNEY	SOFA LIVER	SOFA CV	SOFA COAG	sequential organ failure assessment score (SOFA score) at dismission	SOFA RESP	SOFA KIDNEY	SOFA LIVER	SOFA CV	SOFA COAG	COVID Therapy	hydroxychloroquine 0=NO 1 =YES	Kaletra 0=NO 1 =YES	Tocilizumab 0=NO 1 =YES	REMDESIVIR  0=NO 1 =YES	CORTISONE PRE ICU 0=NO 1=methylprednisolone 2=hydrocortisone 	CORTISONEat sampling 0=NO 1=methylprednisolone 2=hydrocortisone 
+02.04.2020	1	F	68	85	1,6	33,2	no	0	7	10	21	31	alive	yes	type 2	no	no	no	no	resp	2	2	0	0	0	0	2	2	0	0	0	0	1	1	0	0	0	0	hydroxychloroquine	1	1	0	1	0	0
+02.04.2020	2	M	67	90	1,7	31,1	yes	0	10	10	42	43	alive	yes	type 2	yes	no	no	no	resp	5	3	2	0	0	0	7	3	4	0	0	0	3	3	0	0	0	0	hydroxychloroquine	1	1	0	1	0	0
+02.04.2020	3	F	71	98	1,67	35,13	no	0	4	4	29	29	dead	yes	no	no	no	no	no	resp	7	4	0	0	3	0	7	4	0	0	3	0	9	4	0	0	4	1	hydroxychloroquine	1	1	0	1	0	0
+02.04.2020	4	M	54	95	1,75	31	no	0	2	10	19	35	alive	no	no	no	no	no	no	resp	7	3	0	1	3	0	7	3	0	1	3	0	5	1	0	2	0	2	hydroxychloroquine	1	1	0	1	0	0
+02.04.2020	5	M	68	97	1,8	29,9	previous	0	9	10	30	43	alive	no	no	no	no	no	no	resp	5	1	2	2	0	0	5	1	2	2	0	0	3	3	0	0	0	0	hydroxychloroquine	1	1	0	1	0	0
+02.04.2020	6	F	59	87	1,6	34	previous	0	1	11	63	69	alive	no	type 2	no	no	no	no	resp	6	3	0	0	3	0	6	3	0	0	3	0	2	2	0	0	0	0	hydroxychloroquine	1	1	0	1	0	0
+02.04.2020	7	M	70	97	1,75	31,7	yes	0	6	12	45	45	dead	no	no	no	no	no	no	resp	5	3	0	2	0	0	6	4	0	2	0	0	10	3	0	2	4	1	hydroxychloroquine	1	1	0	1	1	0
+7.04.2020	8	M	55				previous	0	10	18	42	70	alive	yes	no	no	no	no	CLL		4	3	0	0	0	1	4	3	0	0	0	1	1	1	0	0	0	0	hydroxychloroquine, kaletra,  tocilizumab	1	1	1	1	0	0
+7.04.2020	9	M	58	98	1,64	36,43	no	0	6	7	28	61	alive	yes	no	no	no	no	no	resp	5	3	2	0	0	0	3	1	2	0	0	0	5	2	3	0	0	0	hydroxychloroquine	1	1	0	1	1	0
+7.04.2020	10	M	58	88	1,8	27,2	no	0	0	0	21	21	dead	yes	no	no	no	no	no	resp	3	2	0	1	0	0	4	3	0	1	0	0	7	3	0	1	3	0	hydroxychloroquine	1	1	1	1	0	2
+7.04.2020	11	M	77	87	1,8	26,85	no	0	8	9	40	84	alive	no	no	no	yes	no	no	resp	3	1	2	0	0	0	5	1	4	0	0	0	3	2	1	0	0	0	hydroxychloroquine	1	1	0	1	0	0
+7.04.2020	13 T0	M	69	77	1,75	25,14	no	0	7	7	52	52	dead	no	type 2	no	no	no	no	resp	3	3	0	0	0	0	3	3	0	0	0	0	4	4	0	0	0	0	hydroxychloroquine	1	1	0	1	0	0
+7.04.2020	14	M	65	95	1,82	28,68	previous	0	6	7	14	32	alive	yes	type 2	no	no	no	no	resp	6	1	1	0	4	0	6	1	1	0	4	0	3	3	0	0	0	0	hydroxychloroquine, kaletra	1	1	1	1	0	0
+7.04.2020	16	F	51	85	1,65	31,2		0	5	5	60	66	alive	no	no	no	yes	no	no	resp, cardio	8	3	0	3	2	0	8	3	0	3	2	0	1	1	0	0	0	0	hydroxychloroquine	1	1	0	1	0	0
+9.04.2020	17	M	55	99	1,75	32,2	no	0	7	7	51	74	alive	no	type 2	no	no	no	no		10	3	1	4	2	0	12	3	2	4	3	0	2,6	0	1,6	1	0	0	hydroxychloroquine	1	1	0	1	0	0
+9.04.2020	18	M	80	71	1,7	24,6	no	0	5	8	38	43	dead	yes	no	no	yes	no	no	resp	3	3	0	0	0	0	2	2	0	0	0	0	6	3	0	0	3	0	hydroxychloroquine	1	1	0	1	0	1
+9.04.2020	22 T1	M	69	77	1,75	25,14	no	0	7	7	52	52	dead	no	type 2	no	no	no	no		6	3	0	0	3	0	6	3	0	0	3	0	4	4	0	0	0	0	hydroxychloroquine	1	1	0	1	0	1
+9.04.2020	23	M	61	107	1,75	34,9	no	0	4	7	23	32	alive	no	no	no	no	no	follow up since 2010 for cavernous meningioma	resp	2	2	0	0	0	0	3	3	0	0	0	0	1	1	0	0	0	0	hydroxychloroquine	1	1	0	1	0	0
+9.04.2020	24	M	71	85	1,68	30,1	no	0	5	6	36	36	dead	no	no	no	no	no	no	resp	7	4	2	1	0	0	7	4	2	1	0	0	8	4	0	0	4	0	hydroxychloroquine	1	1	0	1	0	1
+9.04.2020	25	M	68	75	1,68	26,6		0	11	11	51	51	dead	yes	no	no	no	no	no	resp	8	3	1	0	4	0	8	3	1	0	4	0	9	4	1	0	4	0	hydroxychloroquine	1	1	0	1	0	0
+9.04.2020	27	M	70	85	1,75	27,75		0	6	6	41	68		yes	type 2	no	no	no	no	resp	5	4	0	0	0	1	5	4	0	0	0	1	1	1	0	0	0	0	hydroxychloroquine	1	1	1	1	0	0
+16.04.2020	29	M	60	100	1,85	29,21	yes	0	3	6	21	21	dead	yes	no	no	no	yes	no	resp and renal	10	4	1	1	4	0	13	4	4	1	4	0	13	4	4	1	4	0	hydroxychloroquine	1	1	1	1	1	0
+16.04.2020	30 T2	M	69	77	1,75	25,14	no	0	7	7	52	52	dead	no	type 2	no	no	no	no		7	3	0	0	4	0	6	3	0	0	3	0	4	4	0	0	0	0	hydroxychloroquine	1	1	0	1	0	0
