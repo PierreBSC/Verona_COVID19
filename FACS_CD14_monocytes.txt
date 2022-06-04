@@ -1,0 +1,39 @@
+Severity of Disease	Outcome ICU	SUPPRESSION BY CD14+	SUPPRESSION BY SN CD14+	SUPPRESSION BY SN CD66b+ LDN	SUPPRESSION BY SN CD66b+ NDN	total monocytes CD14+ ARG1+	MFI HLA_DR on CD14+ monocytes	MFI ARG1 monocytes CD14+	MFI PD-L1 monocytes CD14+
+Severe	alive	78,5	52,11	96,4	41,6	6,23	21,6	10266	9562
+Severe	alive	42,6	35,2	96,3	18,9	0,369	10,5	1258	952
+Severe	dead	10,2	25,63	52,33	18,6	0,0489	8,21	210	1523
+Severe	alive	67,4	56,8	94,7	34,56	5,842	17,45	8452	5217
+Severe	alive	10,59	4,89	31,55	1,85	1,256	12,3	962	2145
+Severe	alive	35,3	67,4	95,6	21,3	1,599	11,2	1158	842
+Severe	dead	25,6	31,25	84,59	24,78	0,128	5,99	1054	657
+Severe	alive						14,5		
+Severe	alive						32		
+Severe	dead						5		
+Severe	alive	62,3	87,66	69,88	12,52	4,6036	74,55	8236	5198
+Severe	dead	18,56	1,52	19,63	11,89	1,856	12,66	1024	912
+Severe	alive	39,6	54,78	84,23	34,7	0,041	6,33	1241	1856
+Severe	alive	24,6	35,6	49,89	35,6	1,25	10,8	1032	5412
+Severe	alive	62,74	45,88	68,54	12,58	6,522	21,89	8532	5744
+Severe	dead	20,33	2,53	24,3	10,56	1,022	5,74	968	1895
+Severe	dead						36,44		
+Severe	alive	74,55	52,63	52,7	47,89	2,169	41,23	10241	941
+Severe	dead	15,66	56,87	74,85	18,99	1,952	15,61	1059	412
+Severe	dead	14,78	0,87	25,12	4,89	2,305	6,33	1125	325
+Severe	alive	52,36	51,29	42,66	23,44	3,711	38,78	1428	1055
+Severe	dead	12,3	15,6	21,5	18,9	1,723	10,87		
+Severe	dead						36,99		
+mild	alive						59,8		
+mild	alive	65,3	78,69	76,3	5,23	7,06	74,23	7541	6254
+mild	alive	69,14	35,96	74,09	15,08	5,29	62,3	8865	9788
+mild	alive	54,87	41,78	57,88	14,89	4,512	41,22	1529	2105
+mild	alive						30,14		
+mild	alive						51,48		
+mild	alive	45,99	74,56	87,85	21,45	8,21	21,89	2019	1057
+mild	alive	74,52	58,96	95,23	41,26	9,52	23,66	7452	2541
+mild	alive	85,12	63,22	91,02	38,78	7,45	45,22	5213	1985
+mild	alive	58,7	78,99	96,33	45,12	5,63	32,56	2685	2471
+healthy donor	alive	4,45	1,58		24,66	1,006	52,4	95	102
+healthy donor	alive						69,78		
+healthy donor	alive	24,33	4,89		12,78	0,966	155,77	1048	68
+healthy donor	alive	10,47	5,54		11,48	0,328	120,47	278	1089
+healthy donor	alive	10,89	15,48		11,55	3,09	47,14	263	1423
